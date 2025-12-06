@@ -1,1 +1,2 @@
-# camera-location-test
+camera-location-test
+ └── index.html
